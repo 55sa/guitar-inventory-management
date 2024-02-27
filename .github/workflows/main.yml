@@ -35,4 +35,4 @@ jobs:
         run: |
           docker login --username jiahao9273 --password ${{secrets.ACCESS_TOKEN}} ghcr.io
           docker build -t ghcr.io/55sa/guitar:latest --file Dockerfile .  
-          docker push ghcr.io/55sa/guitar:latest 
+          docker push ghcr.io/55sa/guitar:latest
