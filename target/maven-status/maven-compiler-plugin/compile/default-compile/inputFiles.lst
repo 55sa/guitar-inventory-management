@@ -1,3 +1,8 @@
-/Users/jiahaohe/work/obj-Jva/Hw2/src/main/java/com/homework2/demo/controllers/HomeController.java
-/Users/jiahaohe/work/obj-Jva/Hw2/src/main/java/com/homework2/demo/Entity/Guitar.java
-/Users/jiahaohe/work/obj-Jva/Hw2/src/main/java/com/homework2/demo/DemoApplication.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/model/Wood.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/controllers/InventoryController.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/DemoApplication.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/model/Builder.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/model/Type.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/model/Guitar.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/repository/InventoryRepository.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/controllers/HomeController.java
