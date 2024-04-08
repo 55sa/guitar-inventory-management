@@ -15,3 +15,11 @@ acd,24.0,Fender,M,acoustic,Brazilian_Rosewood,Alder
 atd,25.0,Fender,M,acoustic,Brazilian_Rosewood,Alder
 agd,26.0,Fender,P,acoustic,Brazilian_Rosewood,Alder
 akd,27.0,Fender,O,acoustic,Brazilian_Rosewood,Alder
+akk,2.0,PRS,L,acoustic,Brazilian_Rosewood,Alder
+akk,23.0,PRS,L,acoustic,Brazilian_Rosewood,Alder
+akk,23.0,PRS,L,acoustic,Brazilian_Rosewood,Alder
+akk,23.0,PRS,L,acoustic,Brazilian_Rosewood,Alder
+acd,24.0,Fender,M,acoustic,Brazilian_Rosewood,Alder
+atd,25.0,Fender,M,acoustic,Brazilian_Rosewood,Alder
+agd,26.0,Fender,P,acoustic,Brazilian_Rosewood,Alder
+akd,27.0,Fender,O,acoustic,Brazilian_Rosewood,Alder
