@@ -8,9 +8,11 @@
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/security/Jwks.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/security/KeyGeneratorUtils.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/controllers/HomeController.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/repository/InverntoryRepository.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/repository/CustomerFileRepository.java
+/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/repository/InventoryFileRepository.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/controllers/InventoryController.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/controllers/AuthenticationController.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/security/SecurityConfig.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/model/Type.java
 /Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/model/Guitar.java
-/Users/jiahaohe/work/guitar-inventory-management/src/main/java/com/homework2/demo/repository/InventoryRepository.java

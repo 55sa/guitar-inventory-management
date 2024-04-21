@@ -2,6 +2,7 @@ package com.homework2.demo.security;
 
 
 import com.homework2.demo.model.Customer;
+import com.homework2.demo.repository.CustomerFileRepository;
 import com.homework2.demo.repository.CustomerRepository;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

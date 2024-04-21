@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: production
+server:
+  port: 4095

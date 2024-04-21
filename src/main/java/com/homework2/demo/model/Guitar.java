@@ -1,23 +1,37 @@
 package com.homework2.demo.model;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 import lombok.Data;
 
 
 @Data
+@Entity
+@Table(name = "guitar")
 public class Guitar {
+    public Guitar() {
+    }
+
+    @Id
+     @Column(name = "serialNumber")
     String serialNumber;
 
+    @Column(name = "price")
     Double price;
 
-
+    @Column(name = "builder")
     Builder builder;
 
+    @Column(name = "model")
     String model;
 
+    @Column(name = "type")
     Type type;
-
+    @Column(name = "backwood")
     Wood backWood;
-
+    @Column(name="topwood")
     Wood topWoop;
 
 

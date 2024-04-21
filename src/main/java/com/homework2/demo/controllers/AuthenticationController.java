@@ -1,11 +1,13 @@
 package com.homework2.demo.controllers;
 
 import com.homework2.demo.model.Customer;
+import com.homework2.demo.repository.CustomerFileRepository;
 import com.homework2.demo.repository.CustomerRepository;
 import com.homework2.demo.security.TokenService;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -37,7 +39,11 @@ public class AuthenticationController {
 
     @PostMapping("/signup")
     public void signup(@RequestBody Customer customer) {
+
         try {
+            BCryptPasswordEncoder bc = new BCryptPasswordEncoder();
+            String passwordEncoded = bc.encode(customer.password());
+            customer.setPassword(passwordEncoded);
             customerRepository.save(customer);
         } catch (Exception e) {
             throw new RuntimeException(e);

@@ -1,6 +1,5 @@
 com/homework2/demo/model/Type.class
 com/homework2/demo/controllers/HomeController.class
-com/homework2/demo/repository/InventoryRepository.class
 com/homework2/demo/model/Guitar.class
 com/homework2/demo/model/Wood.class
 com/homework2/demo/DemoApplication.class
